@@ -1,0 +1,14 @@
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\bin\Debug\netcoreapp2.2\ApiGateway.deps.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\bin\Debug\netcoreapp2.2\ApiGateway.runtimeconfig.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\bin\Debug\netcoreapp2.2\ApiGateway.runtimeconfig.dev.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\bin\Debug\netcoreapp2.2\ApiGateway.dll
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\bin\Debug\netcoreapp2.2\ApiGateway.pdb
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.csprojAssemblyReference.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.RazorAssemblyInfo.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.RazorAssemblyInfo.cs
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.AssemblyInfo.cs
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.RazorTargetAssemblyInfo.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.dll
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\ApiGateway\obj\Debug\netcoreapp2.2\ApiGateway.pdb

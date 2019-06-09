@@ -1,0 +1,14 @@
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.2\CatalogApi.deps.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.2\CatalogApi.runtimeconfig.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.2\CatalogApi.runtimeconfig.dev.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.2\CatalogApi.dll
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\bin\Debug\netcoreapp2.2\CatalogApi.pdb
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.csprojAssemblyReference.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.csproj.CoreCompileInputs.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.RazorAssemblyInfo.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.RazorAssemblyInfo.cs
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.AssemblyInfoInputs.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.AssemblyInfo.cs
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.RazorTargetAssemblyInfo.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.dll
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\CatalogApi\obj\Debug\netcoreapp2.2\CatalogApi.pdb

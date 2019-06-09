@@ -1,0 +1,14 @@
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.2\OrdersApi.deps.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.2\OrdersApi.runtimeconfig.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.2\OrdersApi.runtimeconfig.dev.json
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.2\OrdersApi.dll
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\bin\Debug\netcoreapp2.2\OrdersApi.pdb
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.csprojAssemblyReference.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.csproj.CoreCompileInputs.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.RazorAssemblyInfo.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.RazorAssemblyInfo.cs
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.AssemblyInfoInputs.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.AssemblyInfo.cs
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.RazorTargetAssemblyInfo.cache
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.dll
+C:\Users\vcinq\Source\Repos\ApiGatewayExample\OrdersApi\obj\Debug\netcoreapp2.2\OrdersApi.pdb
